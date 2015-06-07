@@ -1,0 +1,19 @@
+{
+  "name": "AttendAppBackend",
+  "version": "0.0.1",
+  "description": "Backend services for Attend App",
+  "main": "server.js ",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pahan Perera",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "intravenous": "^0.1.4-beta",
+    "mongoose": "^4.0.5",
+    "winston": "^1.0.0"
+  }
+}

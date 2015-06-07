@@ -1,7 +1,7 @@
 {
-  "name": "AttendAppBackend",
+  "name": "NodeBackend",
   "version": "0.0.1",
-  "description": "Backend services for Attend App",
+  "description": "Backend services project",
   "main": "server.js ",
   "scripts": {
     "start": "node ./src/server.js",
